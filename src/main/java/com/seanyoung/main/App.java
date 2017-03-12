@@ -11,7 +11,7 @@ public class App {
     data.add("8");
 
     //print using method reference
-    data.forEach(System.out::println);
+    //data.forEach(System.out::println);
   }
 
   public static void main(String[] args) {
