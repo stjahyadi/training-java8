@@ -10,6 +10,8 @@ public class App {
     data.add("java");
     data.add("8");
     //haha
+    //hehe
+    //hoho
 
     //print using method reference
     //data.forEach(System.out::println);
