@@ -9,6 +9,7 @@ public class App {
     data.add("training");
     data.add("java");
     data.add("8");
+	data.add("YES")
  
     //print using method reference
     //data.forEach(System.out::println);
