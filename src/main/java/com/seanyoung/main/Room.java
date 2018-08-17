@@ -4,7 +4,7 @@ class Room{
 	public Room(){
 	}
 	
-	public getRoomName(){
+	public String getRoomName(){
 		return roomName;
 	}
 	
