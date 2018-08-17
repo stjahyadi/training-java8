@@ -4,7 +4,7 @@ class Material{
 	public Material(){
 	}
 	
-	public getLevel(){
+	public String getLevel(){
 		return level;
 	}
 	
