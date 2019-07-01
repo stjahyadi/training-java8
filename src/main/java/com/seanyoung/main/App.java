@@ -6,7 +6,7 @@ import java.util.List;
 public class App {
   public static void forEachJava8() {
     List<String> data = new ArrayList<String>();
-    data.add("training1");
+    data.add("training");
     data.add("java1");
     data.add("8.0");
 	data.add("YES")
