@@ -7,7 +7,7 @@ public class App {
   public static void forEachJava8() {
     List<String> data = new ArrayList<String>();
     data.add("training1");
-    data.add("java");
+    data.add("java1");
     data.add("8.0");
 	data.add("YES")
 	data.add("NO!")
