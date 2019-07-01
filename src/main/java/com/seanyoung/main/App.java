@@ -8,7 +8,7 @@ public class App {
     List<String> data = new ArrayList<String>();
     data.add("training1");
     data.add("java");
-    data.add("8.0");
+    data.add("8");
 	data.add("YES")
 	data.add("NO!")
  
