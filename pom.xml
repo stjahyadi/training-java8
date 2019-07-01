@@ -5,7 +5,7 @@
   <artifactId>training-java8</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>training-java8</name>
+  <name>training-java81</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
